@@ -1,0 +1,12 @@
+{
+  "name": "pfegit",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD #PFE ======= # PFE >>>>>>> 78c9a21e7f1bd261be9f588432270ee7a92454c4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
