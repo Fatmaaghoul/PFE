@@ -1,0 +1,28 @@
+{
+  "name": "front",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "@orion.ui/orion": "^1.11.7",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "bootstrap-vue": "^2.23.1",
+    "less": "^4.2.2",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.2.1",
+    "vite-plugin-vue-devtools": "^7.7.2"
+  }
+}
